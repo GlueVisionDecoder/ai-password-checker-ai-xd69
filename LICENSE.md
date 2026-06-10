@@ -1,4 +1,4 @@
-# 
+# Seguro AI Password Strength Checker modelos. Com aumento de dados e visão computacional — otimizado para máximo desempenho.
 
 
 
